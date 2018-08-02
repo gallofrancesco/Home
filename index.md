@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/gallofrancesco/web/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown | Markdown 1
+### [Markdown](https://github.com/gallofrancesco/web/edit/master/index.md) | Markdown 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
